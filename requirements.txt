@@ -1,4 +1,4 @@
-aiogram==3.0.0b7
-python-dotenv==1.0.0
-sqlalchemy==2.0.23
-aiohttp==3.8.4 --no-binary :all:
+echo aiogram==3.0.0b7 > requirements.txt
+echo python-dotenv==1.0.0 >> requirements.txt
+echo sqlalchemy==2.0.23 >> requirements.txt
+echo aiohttp==3.8.6 >> requirements.txt
